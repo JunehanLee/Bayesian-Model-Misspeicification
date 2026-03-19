@@ -54,7 +54,7 @@ A synthetic CRM / e-commerce environment was created to reflect real-world data:
 - Discount interactions
 - Heavy-tailed noise (Cauchy, t-distribution, contaminated normal)
 
-👉 Designed to mimic real marketing datasets where assumptions often fail :contentReference[oaicite:0]{index=0}
+👉 Designed to mimic real marketing datasets where assumptions often fail 
 
 ---
 
