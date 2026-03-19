@@ -113,17 +113,12 @@ Models were evaluated on:
 
 ## 📁 Repository Structure
 
-'''text
+```text
 ├── README.md
-├── docs/
-│ └── paper.pdf
-├── experiments/
-│ └── notebooks (full pipeline)
-├── src/
-│ └── model implementations
-├── figures/
-│ └── result visualisations
-└── results/
+├── experiment.ipynb (full pipeline)
+└── figures/
+  └── result visualisations
+```
 ---
 ## 🛠 Tech Stack
 
@@ -132,13 +127,6 @@ Models were evaluated on:
 - NumPy / Pandas  
 - Bayesian inference (MCMC, NUTS)  
 - Simulation-based evaluation  
-
----
-
-## 📄 Full Paper
-
-Full dissertation available here:  
-👉 `/docs/paper.pdf`
 
 ---
 
