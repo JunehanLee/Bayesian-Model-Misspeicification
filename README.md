@@ -105,9 +105,8 @@ Models were evaluated on:
   - data generation
   - model fitting
   - evaluation
-  - visualisation  
 
-👉 See `/experiments` for full workflow
+👉 See `experiment.ipynb` for full workflow
 
 ---
 
