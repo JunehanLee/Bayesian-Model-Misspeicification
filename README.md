@@ -113,6 +113,18 @@ Models were evaluated on:
 
 ## 📁 Repository Structure
 
+'''text
+├── README.md
+├── docs/
+│ └── paper.pdf
+├── experiments/
+│ └── notebooks (full pipeline)
+├── src/
+│ └── model implementations
+├── figures/
+│ └── result visualisations
+└── results/
+---
 ## 🛠 Tech Stack
 
 - Python  
